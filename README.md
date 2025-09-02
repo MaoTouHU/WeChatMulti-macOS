@@ -49,8 +49,11 @@
    - `xattr`
    - `/usr/libexec/PlistBuddy`
 3. 打开终端（Terminal），确保拥有 `sudo` 权限。
+
+
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/376ef533a0f8424fb372c36f5e1f0491.png)
-@[toc]
+
+
 
 ---
 
@@ -98,6 +101,7 @@ open -e wechat-2.sh
 ```
 
 把脚本粘贴进去，然后保存即可。
+
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/0bb415a392754d868bdf7798c5d73bc8.png)
 
 #### 方法2：用 VS Code（如果已安装）
@@ -125,6 +129,7 @@ chmod +x wechat-2.sh
 ```
 
 这样 `wechat-2.sh` 就变成了可执行文件。
+
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/2fad88233506407db29e3cb40d9c826f.png)
 
 ---
@@ -138,6 +143,7 @@ chmod +x wechat-2.sh
   ```
 
   系统会提示输入管理员密码，请输入你的 Mac 密码（输入时不会显示）。
+  
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/f153482e3931453da4a9bfbbb82f3536.png)
 
 
@@ -148,6 +154,7 @@ chmod +x wechat-2.sh
   ```
 
   会自动生成：小绿书1、小绿书2、小绿书3。
+  
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/7f3b1752a2b04fc2819ed4c24ec74cf2.png)
 
 
